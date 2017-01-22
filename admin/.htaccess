@@ -1,0 +1,4 @@
+AuthName "VVEDITE PAROL!!!"
+AuthType Basic
+AuthUserFile /home/raul/raul.ru/project4/blog/admin/.htpasswd
+require valid-user
